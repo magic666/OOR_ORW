@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab4</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+
+            <!-- Logo/Nazwa -->
+            <div calss="navbar-header">
+                <a herf="#" class="navbar-brand">NIGHTSCAPE</a>
+            </div>
+
+            <!-- elementy menu -->
+            <div>
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Główna</a></li>
+                    <li><a href="#">Projekt</a></li>
+                    <li><a href="#">Kontakt</a></li>
+
+                    <!-- menu opuszczane -->
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mój Profil<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">O mnie</a></li>
+                            <li><a href="#">Zdjęcia</a></li>
+                            <li><a href="#">Doświadczenie</a></li>
+
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- prawy bok -->
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#">Wyloguj</a></li>
+            </ul>
+
+
+
+
+        </div>
+
+
+    </nav>
+    <div class="container-fluid">
+    <br>
+    <p>Podświetlenie działa <mark>właśnie tak</mark> pomocą znacznika mark</p>
+
+    <blockquote>
+        <p>Kto wybrzydza, ten nie zalicza.</p>
+        <footer>Paulo Coelho</footer>
+    </blockquote>
+
+    <h4>Lista na dzisiaj</h4>
+
+    <dl>
+        <dd>-Wstać</dd>
+        <dd>-Umyć się</dd>
+        <dd>-Zjeść</dd>
+        <dd>-Spać cały dzień</dd>
+    </dl>
+
+    <p>Przykład wstawienia kodu programowego niewykonwyalnego: <code>setKontrolaNadWorld(Me);</code> </p>
+
+    <p>Dla kodu bardziej złożonego</p>
+
+    <pre>#include <windows.h>
+        #include <iostream> //Sleep
+        using namespace std;
+
+        int main() {
+        int repeat_number = 10; //Ilość powtórzeń
+        int key = VK_RETURN;
+        for( int i = 0; i <= repeat_number; i++ ) {
+        keybd_event( key, 0, 0, 0 ); //Naciśnięcie klawisza key
+        keybd_event( key, 0, KEYEVENTF_KEYUP, 0 ); //Zwolnienie klawisza key
+        Sleep( 1000 ); //Czeka sekunde
+        }
+        return 0;
+        }</pre>
+
+    <p>Instrukcje <kbd>Esc</kbd></p>
+
+    <h4>Wbudowane klasy kolory</h4>
+
+    <p class="text-muted">Wygaszony</p>
+    <p class="text-success">Gratujuje zdałeś!</p>
+    <p class="text-danger">Gratujuje oblałeś!</p>
+
+    <p class="bg-success">Gratujuje zdałeś!</p>
+    <p class="bg-danger">Gratujuje oblałeś!</p>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

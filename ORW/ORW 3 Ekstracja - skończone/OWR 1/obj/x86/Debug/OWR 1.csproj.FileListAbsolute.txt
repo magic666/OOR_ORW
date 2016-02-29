@@ -1,0 +1,17 @@
+e:\moje dokumenty\visual studio 2010\Projects\OWR 1\OWR 1\bin\Debug\OWR 1.exe
+e:\moje dokumenty\visual studio 2010\Projects\OWR 1\OWR 1\bin\Debug\OWR 1.pdb
+e:\moje dokumenty\visual studio 2010\Projects\OWR 1\OWR 1\obj\x86\Debug\OWR_1.Form1.resources
+e:\moje dokumenty\visual studio 2010\Projects\OWR 1\OWR 1\obj\x86\Debug\OWR_1.Properties.Resources.resources
+e:\moje dokumenty\visual studio 2010\Projects\OWR 1\OWR 1\obj\x86\Debug\OWR 1.csproj.GenerateResource.Cache
+e:\moje dokumenty\visual studio 2010\Projects\OWR 1\OWR 1\obj\x86\Debug\OWR 1.exe
+e:\moje dokumenty\visual studio 2010\Projects\OWR 1\OWR 1\obj\x86\Debug\OWR 1.pdb
+J:\Zaliczenie\ORW\ORW 3 Ekstracja\OWR 1\obj\x86\Debug\OWR 1.exe
+J:\Zaliczenie\ORW\ORW 3 Ekstracja\OWR 1\obj\x86\Debug\OWR 1.pdb
+J:\Zaliczenie\ORW\ORW 3 Ekstracja\OWR 1\bin\Debug\OWR 1.exe
+J:\Zaliczenie\ORW\ORW 3 Ekstracja\OWR 1\bin\Debug\OWR 1.pdb
+J:\Zaliczenie\ORW\ORW 3 Ekstracja\OWR 1\obj\x86\Debug\OWR_1.Form1.resources
+J:\Zaliczenie\ORW\ORW 3 Ekstracja\OWR 1\obj\x86\Debug\OWR_1.Properties.Resources.resources
+J:\Zaliczenie\ORW\ORW 3 Ekstracja\OWR 1\obj\x86\Debug\OWR 1.csproj.GenerateResource.Cache
+J:\Zaliczenie\ORW\ORW 3 Ekstracja\OWR 1\obj\x86\Debug\OWR 1.csprojResolveAssemblyReference.cache
+C:\Users\Magic\Desktop\Zaliczenie\ORW\ORW 3 Ekstracja - skończone\OWR 1\obj\x86\Debug\OWR 1.exe
+C:\Users\Magic\Desktop\Zaliczenie\ORW\ORW 3 Ekstracja - skończone\OWR 1\obj\x86\Debug\OWR 1.pdb

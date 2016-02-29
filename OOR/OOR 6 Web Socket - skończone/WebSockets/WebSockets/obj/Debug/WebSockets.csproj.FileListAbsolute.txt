@@ -1,0 +1,6 @@
+c:\users\m\documents\visual studio 2012\Projects\WebSockets\WebSockets\bin\WebSockets.dll
+c:\users\m\documents\visual studio 2012\Projects\WebSockets\WebSockets\bin\WebSockets.pdb
+c:\users\m\documents\visual studio 2012\Projects\WebSockets\WebSockets\bin\Microsoft.WebSockets.dll
+c:\users\m\documents\visual studio 2012\Projects\WebSockets\WebSockets\obj\Debug\WebSockets.csprojResolveAssemblyReference.cache
+c:\users\m\documents\visual studio 2012\Projects\WebSockets\WebSockets\obj\Debug\WebSockets.dll
+c:\users\m\documents\visual studio 2012\Projects\WebSockets\WebSockets\obj\Debug\WebSockets.pdb

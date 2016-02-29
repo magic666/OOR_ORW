@@ -1,0 +1,8 @@
+e:\moje dokumenty\visual studio 2010\Projects\OOR 1\OOR 1\bin\Debug\OOR 1.exe
+e:\moje dokumenty\visual studio 2010\Projects\OOR 1\OOR 1\bin\Debug\OOR 1.pdb
+e:\moje dokumenty\visual studio 2010\Projects\OOR 1\OOR 1\obj\x86\Debug\OOR 1.exe
+e:\moje dokumenty\visual studio 2010\Projects\OOR 1\OOR 1\obj\x86\Debug\OOR 1.pdb
+J:\Zaliczenie\OOR\OOR 1 tworzenie wątków\OOR 1\obj\x86\Debug\OOR 1.exe
+J:\Zaliczenie\OOR\OOR 1 tworzenie wątków\OOR 1\obj\x86\Debug\OOR 1.pdb
+C:\Users\Magic\Desktop\Zaliczenie\OOR\OOR 1 tworzenie wątków - zaliczone\OOR 1\obj\x86\Debug\OOR 1.exe
+C:\Users\Magic\Desktop\Zaliczenie\OOR\OOR 1 tworzenie wątków - zaliczone\OOR 1\obj\x86\Debug\OOR 1.pdb

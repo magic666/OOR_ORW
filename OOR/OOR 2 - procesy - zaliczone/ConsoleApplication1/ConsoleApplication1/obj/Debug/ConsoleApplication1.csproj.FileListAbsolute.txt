@@ -1,0 +1,20 @@
+C:\Users\Kowal\Desktop\lab2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Kowal\Desktop\lab2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Kowal\Desktop\lab2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Kowal\Desktop\lab2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Kowal\Desktop\lab2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\,a ORW\oor labs\lab2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\,a ORW\oor labs\lab2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\,a ORW\oor labs\lab2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Magic\Desktop\Zacny\OOR\OOR 2 - procesy\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Magic\Desktop\Zacny\OOR\OOR 2 - procesy\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Magic\Desktop\Zacny\OOR\OOR 2 - procesy\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Magic\Desktop\Zacny\OOR\OOR 2 - procesy\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Magic\Desktop\Zacny\OOR\OOR 2 - procesy\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Magic\Desktop\Zacny\OOR\OOR 2 - procesy\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+J:\Zaliczenie\OOR\OOR 2 - procesy\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+J:\Zaliczenie\OOR\OOR 2 - procesy\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+J:\Zaliczenie\OOR\OOR 2 - procesy\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Magic\Desktop\Zaliczenie\OOR\OOR 2 - procesy - zaliczone\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Magic\Desktop\Zaliczenie\OOR\OOR 2 - procesy - zaliczone\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Magic\Desktop\Zaliczenie\OOR\OOR 2 - procesy - zaliczone\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

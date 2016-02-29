@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Web Calculator Powered by Web Worker | onlyWebPro.com</title>
+</head>
+<body>
+<form>
+    <input type="text" id="x" value="2" />
+    <br />
+    <input type="text" id="y" value="3" />
+    <br />
+    <input type="text" id="output" />
+    <br />
+    <input type="button" id="addButton" value="+" />
+    <input type="button" id="deductButton" value="-" />
+    <input type="button" id="multButton" value="*" />
+    <input type="button" id="divideButton" value="/" />
+</form>
+
+<script>
+
+    /* Check if Web Workers are supported */
+
+    if (window.Worker) {
+
+        var x,y,message;
+
+        /* Create a new worker */
+        arithmeticWorker = new Worker("arithmetic.js");
+
+        /*
+         Add a event listener to the worker, this will
+         be called when the worker posts a message.
+         */
+        arithmeticWorker.onmessage = function (event) {
+            document.getElementById("output").value = event.data;
+        };
+
+        /* Register events for buttons */
+        document.getElementById("addButton").onclick = function() {
+            /* Get the values to do operation on */
+            x = parseFloat(document.getElementById("x").value);
+            y = parseFloat(document.getElementById("y").value);
+            message = {
+                'op' : 'add',
+                'x'  : x,
+                'y'  : y
+            };
+
+            arithmeticWorker.postMessage(message);
+        }
+
+        document.getElementById("deductButton").onclick = function() {
+            /* Get the values to do operation on */
+            x = parseFloat(document.getElementById("x").value);
+            y = parseFloat(document.getElementById("y").value);
+            message = {
+                'op' : 'deduct',
+                'x'  : x,
+                'y'  : y
+            };
+
+            arithmeticWorker.postMessage(message);
+        }
+
+        document.getElementById("multButton").onclick = function() {
+            /* Get the values to do operation on */
+            x = parseFloat(document.getElementById("x").value);
+            y = parseFloat(document.getElementById("y").value);
+            message = {
+                'op' : 'mult',
+                'x'  : x,
+                'y'  : y
+            };
+            arithmeticWorker.postMessage(message);
+        }
+
+        document.getElementById("divideButton").onclick = function() {
+            /* Get the values to do operation on */
+            x = parseFloat(document.getElementById("x").value);
+            y = parseFloat(document.getElementById("y").value);
+            message = {
+                'op' : 'divide',
+                'x'  : x,
+                'y'  : y
+            };
+
+            arithmeticWorker.postMessage(message);
+        }
+
+    } else {
+        alert("Not Supported");
+    };
+</script>
+</body>
+</html>

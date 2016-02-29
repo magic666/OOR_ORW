@@ -1,0 +1,9 @@
+C:\wamp\www\sel\rabbitMQconsole\rabbitMQconsole\bin\Debug\rabbitMQconsole.exe.config
+C:\wamp\www\sel\rabbitMQconsole\rabbitMQconsole\bin\Debug\rabbitMQconsole.exe
+C:\wamp\www\sel\rabbitMQconsole\rabbitMQconsole\bin\Debug\rabbitMQconsole.pdb
+C:\wamp\www\sel\rabbitMQconsole\rabbitMQconsole\bin\Debug\RabbitMQ.Client.dll
+C:\wamp\www\sel\rabbitMQconsole\rabbitMQconsole\bin\Debug\RabbitMQ.Client.xml
+C:\wamp\www\sel\rabbitMQconsole\rabbitMQconsole\obj\Debug\rabbitMQconsole.csprojResolveAssemblyReference.cache
+C:\wamp\www\sel\rabbitMQconsole\rabbitMQconsole\obj\Debug\rabbitMQconsole.exe
+C:\wamp\www\sel\rabbitMQconsole\rabbitMQconsole\obj\Debug\rabbitMQconsole.pdb
+C:\wamp\www\sel\rabbitMQconsole\rabbitMQconsole\bin\Debug\Send.cs

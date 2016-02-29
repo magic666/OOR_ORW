@@ -1,0 +1,9 @@
+e:\moje dokumenty\visual studio 2010\Projects\ORW 5\ORW 5\bin\Debug\ORW 5.exe
+e:\moje dokumenty\visual studio 2010\Projects\ORW 5\ORW 5\bin\Debug\ORW 5.pdb
+e:\moje dokumenty\visual studio 2010\Projects\ORW 5\ORW 5\obj\x86\Debug\ORW_5.Form1.resources
+e:\moje dokumenty\visual studio 2010\Projects\ORW 5\ORW 5\obj\x86\Debug\ORW_5.Properties.Resources.resources
+e:\moje dokumenty\visual studio 2010\Projects\ORW 5\ORW 5\obj\x86\Debug\ORW 5.csproj.GenerateResource.Cache
+e:\moje dokumenty\visual studio 2010\Projects\ORW 5\ORW 5\obj\x86\Debug\ORW 5.exe
+e:\moje dokumenty\visual studio 2010\Projects\ORW 5\ORW 5\obj\x86\Debug\ORW 5.pdb
+C:\Users\Magic\Desktop\Zaliczenie\ORW\ORW 5 Zadania okresowe - zaliczone\ORW 5\obj\x86\Debug\ORW 5.exe
+C:\Users\Magic\Desktop\Zaliczenie\ORW\ORW 5 Zadania okresowe - zaliczone\ORW 5\obj\x86\Debug\ORW 5.pdb

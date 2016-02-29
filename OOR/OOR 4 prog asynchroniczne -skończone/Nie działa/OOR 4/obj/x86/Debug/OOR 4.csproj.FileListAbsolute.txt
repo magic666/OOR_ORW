@@ -1,0 +1,16 @@
+e:\moje dokumenty\visual studio 2010\Projects\OOR 4\OOR 4\bin\Debug\OOR 4.exe
+e:\moje dokumenty\visual studio 2010\Projects\OOR 4\OOR 4\bin\Debug\OOR 4.pdb
+e:\moje dokumenty\visual studio 2010\Projects\OOR 4\OOR 4\obj\x86\Debug\OOR_4.Form1.resources
+e:\moje dokumenty\visual studio 2010\Projects\OOR 4\OOR 4\obj\x86\Debug\OOR_4.Properties.Resources.resources
+e:\moje dokumenty\visual studio 2010\Projects\OOR 4\OOR 4\obj\x86\Debug\OOR 4.csproj.GenerateResource.Cache
+e:\moje dokumenty\visual studio 2010\Projects\OOR 4\OOR 4\obj\x86\Debug\OOR 4.exe
+e:\moje dokumenty\visual studio 2010\Projects\OOR 4\OOR 4\obj\x86\Debug\OOR 4.pdb
+I:\Zaliczenie\OOR\OOR 4 prog asynchroniczne\OOR 4\obj\x86\Debug\OOR 4.exe
+I:\Zaliczenie\OOR\OOR 4 prog asynchroniczne\OOR 4\obj\x86\Debug\OOR 4.pdb
+J:\Zaliczenie\OOR\OOR 4 prog asynchroniczne\OOR 4\obj\x86\Debug\OOR 4.exe
+J:\Zaliczenie\OOR\OOR 4 prog asynchroniczne\OOR 4\obj\x86\Debug\OOR 4.pdb
+J:\Zaliczenie\OOR\OOR 4 prog asynchroniczne\OOR 4\obj\x86\Debug\OOR_4.Form1.resources
+J:\Zaliczenie\OOR\OOR 4 prog asynchroniczne\OOR 4\obj\x86\Debug\OOR_4.Properties.Resources.resources
+J:\Zaliczenie\OOR\OOR 4 prog asynchroniczne\OOR 4\obj\x86\Debug\OOR 4.csproj.GenerateResource.Cache
+C:\Users\Magic\Desktop\Zaliczenie\OOR\OOR 4 prog asynchroniczne\OOR 4\obj\x86\Debug\OOR 4.exe
+C:\Users\Magic\Desktop\Zaliczenie\OOR\OOR 4 prog asynchroniczne\OOR 4\obj\x86\Debug\OOR 4.pdb
